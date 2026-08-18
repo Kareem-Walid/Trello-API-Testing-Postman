@@ -78,7 +78,7 @@ Trello-API-Testing-Postman/
 - 🧪 Manual Testing | API Testing | Test Automation (Playwright, Python)
 - 📘 ISTQB Foundation Level candidate
 
-[LinkedIn](#) · [CV](https://tinyurl.com/kareem-walid-cv) · [GitHub](https://github.com/Kareem-Walid)
+[LinkedIn](https://www.linkedin.com/in/kareem-walid/) · [CV](Cutt.ly/kareem-walid-cv) · [GitHub](https://github.com/Kareem-Walid)
 
 ---
 
