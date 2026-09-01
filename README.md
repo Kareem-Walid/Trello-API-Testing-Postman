@@ -58,9 +58,9 @@ Functional · Positive & Negative · Validation · Authentication/Authorization 
 
 The full Postman collection with all requests, environment variables, and test scripts is available here:
 
-🔗 **[Postman Collection](<ADD_YOUR_POSTMAN_COLLECTION_LINK_HERE>)**
+🔗 **[Postman Collection](https://documenter.getpostman.com/view/38809496/2sBYApxshv)**
 
-> Replace the link above with your published/shared Postman collection link.
+
 
 ## 🚀 How to Use
 
